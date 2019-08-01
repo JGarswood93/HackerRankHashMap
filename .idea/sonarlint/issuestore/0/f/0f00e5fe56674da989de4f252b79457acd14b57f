@@ -1,0 +1,4 @@
+
+Rsquid:S1172"1Remove this unused method parameter "checkedOut".(æª¡¥úÿÿÿÿ8ÅðÑ¶Ÿ,
+‹squid:S4165"jRemove this useless assignment; "isCheckedOut" already holds the assigned value along all execution paths.(ýºÇ˜þÿÿÿÿ8ÅðÑ¶Ÿ,
+lsquid:S00116"ORename this field "ISBN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚¡Èˆ8ÅðÑ¶Ÿ,
